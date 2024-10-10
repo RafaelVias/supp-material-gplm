@@ -1,2 +1,2 @@
-# supp-material-gplm
-Supplementary material for a paper analysing the applicability of the generalized power-law rating curve model
+# Supplementary material for a paper on the applicability of the generalized power-law discharge rating curve model
+The document contains the results from fitting the four discharge rating curve models in the generalized power-law class to data from 180 rivers in Iceland, Sweden, and the United States. Each dataset is assigned a data-description page, four pages to present the different model fits, and a model-comparison page.
